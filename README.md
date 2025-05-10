@@ -1,4 +1,4 @@
-# Bike Rental Demand Prediction
+# bike_rental_ml_forecast
 
 ![Bike Sharing](https://images.unsplash.com/photo-1556316384-12c35d30afa4?auto=format&fit=crop&q=80&w=800&h=300)
 
